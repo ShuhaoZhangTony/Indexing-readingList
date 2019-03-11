@@ -6,7 +6,12 @@ Indexing Techniques (For TimeSeries) Reading List
 
 - Indexing Strategies for Time Series Data, Thesis, http://www.it.uu.se/research/group/udbl/Theses/HenrikAndreJonssonPhD.pdf 
 
-# B-Tree
+# Motivation (Why we need Index for TimeSeries)
 
-# LSM-Tree
+
+# Implementation
+
+## B-Tree
+
+## LSM-Tree
 
