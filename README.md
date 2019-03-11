@@ -11,6 +11,9 @@ Indexing Techniques (For TimeSeries) Reading List
 
 # Implementation
 
+## Timeseires Database
+
+- akumuli, OPEN SOURCE TIME SERIES DATABASE For Modern Hardware, https://akumuli.org/
 
 ## Compare
 
