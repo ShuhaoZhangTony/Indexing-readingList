@@ -1,6 +1,6 @@
 Indexing Techniques For TimeSeries Reading List
-
 -- 
+
 Reading list for indexing techniques and TimeSeries database. PR are welcomed!
 
 # Timeseires Database
