@@ -15,3 +15,5 @@ Indexing Techniques (For TimeSeries) Reading List
 
 ## LSM-Tree
 
+- Scaling Concurrent Log-Structured Data Stores, Eurosys'15 https://s.yimg.com/ge/labs/v2/uploads/clsm.pdf
+- PebblesDB: Building Key-Value Stores using Fragmented Log-Structured Merge Trees, SOSP'17 http://www.cs.utexas.edu/~vijay/papers/sosp17-pebblesdb.pdf
