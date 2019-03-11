@@ -4,9 +4,10 @@ Indexing Techniques For TimeSeries Reading List
 # Timeseires Database
 
 ## Survey
-- Time Series Management Systems: A Survey
+- Time Series Management Systems: A Survey, TKDE'17 https://arxiv.org/pdf/1710.01077.pdf
 
 ## Workloads/Benchmarks
+- TS-Benchmark: a benchmark for time series databases, arxiv'19 https://arxiv.org/pdf/1901.08304.pdf
 
 ## Implementation
 - akumuli, OPEN SOURCE TIME SERIES DATABASE For Modern Hardware, https://akumuli.org/
