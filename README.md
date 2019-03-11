@@ -11,6 +11,11 @@ Indexing Techniques (For TimeSeries) Reading List
 
 # Implementation
 
+
+## Compare
+
+- B-tree vs. LSM-tree, https://rkenmi.com/posts/b-trees-vs-lsm-trees
+
 ## B-Tree
 
 ## LSM-Tree
