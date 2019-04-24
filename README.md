@@ -3,7 +3,7 @@ Indexing Techniques For TimeSeries Reading List
 
 Reading list for indexing techniques and TimeSeries database. PR are welcomed!
 
-# Timeseires Database
+# TimeSeries Database
 
 ## Survey
 - Time Series Management Systems: A Survey, TKDE'17 https://arxiv.org/pdf/1710.01077.pdf
