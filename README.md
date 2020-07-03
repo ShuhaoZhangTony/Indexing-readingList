@@ -23,6 +23,8 @@ Reading list for indexing techniques and TimeSeries database. PR are welcomed!
 
 ## Implementation
 
+- Parallel Index-based Stream Join on a Multicore CPU https://dl.acm.org/doi/abs/10.1145/3318464.3380576
+
 ### Compare
 
 - B-tree vs. LSM-tree, https://rkenmi.com/posts/b-trees-vs-lsm-trees
